@@ -1,2 +1,7 @@
 # valunerability_scan
-scan for weakness in a system
+
+!tool use:openvas
+
+note:
+  the solution for the valunerability are in the pdf
+  the scanned machine is virtual machine
